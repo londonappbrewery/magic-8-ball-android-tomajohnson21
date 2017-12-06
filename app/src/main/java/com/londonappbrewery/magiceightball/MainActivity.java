@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
                 Random randomNumberGenerator = new Random();
 
-                int number = randomNumberGenerator.nextInt(4);
+                int number = randomNumberGenerator.nextInt(5);
 
                 Log.d("8Ball", "The random number is " + number);
 
